@@ -1,2 +1,3 @@
-# modern-monetary-theory
-Modern Monetary Theory (MMT) argues that sovereign governments issuing their own currency aren’t financially constrained like households. They can spend to achieve full employment without worrying about deficits, as they can create money. The main limit is inflation, not solvency, so managing spending to prevent excessive inflation is essential.
+# Modern Monetary Theory (MMT)
+
+Modern Monetary Theory (MMT) is an economic framework that redefines the way sovereign governments view fiscal policy, debt, and money creation. It argues that a government that issues its own currency, like the U.S. with the dollar, is not financially constrained in the same way as a household or business. MMT suggests that such governments can spend freely to achieve full employment and other economic goals without worrying about deficits, as they can always create more money. The primary limit, according to MMT, is inflation, not solvency, which means that careful management is needed to avoid excessive spending that could drive up prices.
